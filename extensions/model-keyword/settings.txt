@@ -1,0 +1,8 @@
+is_enabled=True
+keyword_placement=keyword prompt
+multiple_keywords=keyword1, keyword2
+ti_keywords=None
+keyword_order=textual inversion first
+lora_model=None
+lora_multiplier=0.7
+lora_keywords=None
